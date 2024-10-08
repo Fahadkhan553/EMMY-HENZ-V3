@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "EMMY_HENZ-V3",
+        "value": "FK DAVIL",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "EMMY_HENZ-V3"
+        "value": "FK DAVIL"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
